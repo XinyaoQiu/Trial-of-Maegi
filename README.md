@@ -2,7 +2,7 @@
 
 ![](https://github.com/XinyaoQiu/Trial-of-Maegi/raw/master/doc/poster.png)
 
-This is a game written in Elm, a functional programming language for front-end web development. The game combines elements of STG (shoot 'em up) and RPG (role-playing game), allowing players to control characters, shoot bullets, defeat bosses, and interact with objects in a visually appealing world. Details can be seen in our wiki.
+This is a Touhou-like game written in Elm, a functional programming language for front-end web development. The game combines elements of STG (shoot 'em up) and RPG (role-playing game), allowing players to control characters, shoot bullets, defeat bosses, and interact with objects in a visually appealing world. Details can be seen in our wiki.
 
 Our cute protagonist is called Maegi.
 

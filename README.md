@@ -7,7 +7,7 @@ This is a Touhou-like game written in Elm, a functional programming language for
 Our cute protagonist is called Maegi.
 
 ## Authors
-- Jinyan Zhang
+- Jingyan Zhang
 - Xinyao Qiu
 - Runze Xue
 - Heng Zhao
